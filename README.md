@@ -1,7 +1,7 @@
 # Karlos-Eduardo - Student and Programmer
 
 ## Description 
-Hello I Am Carlos Eduardo ✋.One student of Coursing Computacion Science and have one dream a becoming the success programmer. Sharing knowledge the programs and algorithms !
+Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share his knowledge with other programmers, whether they are beginners or experienced.
 
 ## Contacts 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlmbarreto/)
@@ -19,4 +19,3 @@ Hello I Am Carlos Eduardo ✋.One student of Coursing Computacion Science and ha
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
