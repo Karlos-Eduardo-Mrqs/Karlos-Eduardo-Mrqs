@@ -1,7 +1,4 @@
 # Karlos-Eduardo - Student and Programmer: Version EUA
-## Description 
-Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share his knowledge with other programmers, whether they are beginners or experienced.
-
 ## Contacts 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlmbarreto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.cadumcarlos@gmail.com/)
@@ -16,14 +13,16 @@ Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the b
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Description 
+Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share his knowledge with other programmers, whether they are beginners or experienced.
+
 ***
 # Karlos-Eduardo – Estudante e Programador : Versão BR
-
-## Descrição 
-Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso. Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes. Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar seu conhecimento com outros programadores, sejam eles iniciantes ou experientes.
-
 ## Contatos 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlmbarreto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.cadumcarlos@gmail.com/)
@@ -38,5 +37,10 @@ Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação 
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Descrição 
+Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso. Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes. Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar seu conhecimento com outros programadores, sejam eles iniciantes ou experientes.
