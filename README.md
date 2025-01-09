@@ -17,6 +17,7 @@
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Description 
 Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share his knowledge with other programmers, whether they are beginners or experienced.
@@ -41,6 +42,7 @@ Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the b
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Descrição 
 Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso. Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes. Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar seu conhecimento com outros programadores, sejam eles iniciantes ou experientes.
