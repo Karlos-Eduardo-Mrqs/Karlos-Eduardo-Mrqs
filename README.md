@@ -46,4 +46,4 @@ Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Description 
-Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share his knowledge with other programmers, whether they are beginners or experienced.
+Hello I'am Carlos Eduardo ✋, one dedicated Computer Science student with the big dream of becoming a successful programmer. I always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions. In addition to seeking personal growth, I also has a strong desire to share my knowledge with other programmers, whether they are beginners or experienced.
