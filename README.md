@@ -21,7 +21,7 @@
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Descrição 
-Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso. Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes. Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar seu conhecimento com outros programadores, sejam eles iniciantes ou experientes.
+Olá, sou Carlos Eduardo ✋, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso. Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes. Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar meu conhecimento com outros programadores, sejam eles iniciantes ou experientes.
 
 ***
 # Karlos-Eduardo - Student and Programmer: Version EUA
