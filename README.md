@@ -46,11 +46,7 @@
     
 ## Descrição 
 
-Olá, sou Carlos Eduardo, um estudante dedicado de Ciência da Computação com o grande sonho de se tornar um programador de sucesso.
-
-Procuro sempre aprimorar minhas habilidades e me aprofundar no mundo da programação, com foco em entender a lógica por trás dos algoritmos e desenvolver soluções eficientes.
-
-Além de buscar o crescimento pessoal, também tenho muita vontade de compartilhar meu conhecimento com outros programadores, sejam iniciantes ou experientes.
+🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e banco de dados. Me apaixono por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou simplesmente quer trocar ideias, estou aqui!
 
 ---
 
@@ -99,8 +95,4 @@ Além de buscar o crescimento pessoal, também tenho muita vontade de compartilh
     _Agile methodologies, planning and designing software development processes._
 
 ## Description 
-Hello! I'm Carlos Eduardo, a dedicated Computer Science student with the big dream of becoming a successful programmer.
-
-I am always looking to improve my skills and delve deeper into the world of programming, focusing on understanding the logic behind algorithms and developing efficient solutions.
-
-In addition to seeking personal growth, I also have a strong desire to share my knowledge with other programmers, whether they are beginners or experienced.
+🚀 I am dedicated student of computer science with focus in web development and databases. I love resolving complex problems and share knowledge. If you search collaboration or meet ideas, i here !
