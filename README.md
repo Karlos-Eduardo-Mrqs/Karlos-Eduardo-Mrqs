@@ -1,3 +1,5 @@
+![BannerGit](https://github.com/user-attachments/assets/39a03db2-1460-4c88-bd39-f1837d279b04)
+
 # Karlos-Eduardo – Estudante e Programador : Versão BR
 
 ## Contatos 
@@ -49,6 +51,8 @@
 🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e banco de dados. Me apaixono por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou simplesmente quer trocar ideias, estou aqui!
 
 ---
+
+![BannerGit](https://github.com/user-attachments/assets/39a03db2-1460-4c88-bd39-f1837d279b04)
 
 # Karlos-Eduardo - Student and Programmer: Version EUA
 
