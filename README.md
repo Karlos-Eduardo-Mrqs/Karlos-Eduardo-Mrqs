@@ -1,6 +1,5 @@
 ![BannerGit](https://github.com/user-attachments/assets/8697d829-8a87-4ded-8c03-0590b10503c9)
 
-
 # Karlos-Eduardo – Estudante e Programador : Versão BR
 
 ## Contatos 
@@ -48,16 +47,14 @@
     _Metodologias ágeis, pensar/planejar o desenvolvimento de um software._
     
 ## Descrição 
-
-🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e banco de dados. Me apaixono por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou simplesmente quer trocar ideias, estou aqui!
+> 🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e banco de dados. Me apaixono por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou deseja trocar ideias, estou disponível!
 
 ---
-
 ![BannerGit](https://github.com/user-attachments/assets/5197ae50-5466-4bbe-8de3-71718a15c593)
 
-# Karlos-Eduardo - Student and Programmer: Version EUA
+# Karlos-Eduardo - Student and Programmer: Version US
 
-## Contacts 
+## Contact 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlosmrqsdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadumcarlos@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979667744)
@@ -71,7 +68,7 @@
 ### Back-End
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-### DataBases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### Programming Languages
@@ -100,4 +97,4 @@
     _Agile methodologies, planning and designing software development processes._
 
 ## Description 
-🚀 I am dedicated student of computer science with focus in web development and databases. I love resolving complex problems and share knowledge. If you search collaboration or meet ideas, i here !
+> 🚀 I am a dedicated Computer Science student focused on web development and databases. I am passionate about solving complex problems and sharing knowledge. If you're looking for collaboration or just want to exchange ideas, I'm here!
