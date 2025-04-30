@@ -1,4 +1,5 @@
-![BannerGit](https://github.com/user-attachments/assets/39a03db2-1460-4c88-bd39-f1837d279b04)
+![BannerGit](https://github.com/user-attachments/assets/8697d829-8a87-4ded-8c03-0590b10503c9)
+
 
 # Karlos-Eduardo – Estudante e Programador : Versão BR
 
@@ -52,7 +53,7 @@
 
 ---
 
-![BannerGit](https://github.com/user-attachments/assets/39a03db2-1460-4c88-bd39-f1837d279b04)
+![BannerGit](https://github.com/user-attachments/assets/5197ae50-5466-4bbe-8de3-71718a15c593)
 
 # Karlos-Eduardo - Student and Programmer: Version EUA
 
