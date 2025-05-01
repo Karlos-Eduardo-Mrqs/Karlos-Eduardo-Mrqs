@@ -2,7 +2,7 @@
 
 # Karlos-Eduardo - Student and Programmer
 
-# 🌐 Available Languages
+## 🌐 Available Languages
 - **[🇺🇸 English Version *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
 - **[🇧🇷 Brasil Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/READMEBR.md)**
 
