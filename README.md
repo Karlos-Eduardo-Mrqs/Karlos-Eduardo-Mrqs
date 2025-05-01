@@ -1,6 +1,6 @@
 ![BannerGit](https://github.com/user-attachments/assets/5197ae50-5466-4bbe-8de3-71718a15c593)
 
-# Karlos-Eduardo - Student and Programmer: Version US
+# Karlos-Eduardo - Student and Programmer
 
 # 🌐 Available Languages
 - [🇺🇸 English Version **Current**]()
