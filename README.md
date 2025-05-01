@@ -3,8 +3,8 @@
 # Karlos-Eduardo - Student and Programmer
 
 # 🌐 Available Languages
-- [🇺🇸 English Version **Current**](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)
-- [🇧🇷 Brasil Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/READMEBR.md)
+- **[🇺🇸 English Version *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
+- **[🇧🇷 Brasil Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/READMEBR.md)**
 
 ## Contact 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlosmrqsdev/)
