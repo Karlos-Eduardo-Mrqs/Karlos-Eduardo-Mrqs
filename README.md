@@ -33,24 +33,34 @@
 
 ## Featured projects
 
-- 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+- **📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)**
+
 Complete front-end development project with HTML, CSS and JavaScript, covering structuring, styling and interactivity of web pages.
+
 ➡️ Learn more by accessing the repository.
 
-- 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
-Conjunto de miniaplicações e exercícios interativos desenvolvidos com JavaScript puro, explorando lógica, DOM e eventos.
+- **💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)**
+
+Set of mini-applications and interactive exercises developed with pure JavaScript, exploring logic, DOM and events.
+
 ➡️ Navegue pelo repositório para explorar os projetos e seu código.
 
-- 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
+- **🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)**
+
 Complete guide to learning the Python language, with explanations, exercises, scripts and projects aimed at beginners and intermediate users.
+
 ➡️ Explore the content and follow the learning journey step by step.
 
-- 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+- **🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)**
+
 A system for scheduling appointments for clinics or medical offices, with registration and schedule management features.
+
 ➡️ See the technical details and features in the repository.
 
-- 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+- **🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)**
+
 A school report card system with student registration, grades, and performance visualization.
+
 ➡️ Access the full project on GitHub for more information.
 
 ## Education
