@@ -3,6 +3,7 @@
 # Karlos-Eduardo - Student and Programmer
 
 ## 🌐 Available Languages
+
 - **[🇺🇸 English Version *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
 - **[🇧🇷 Brasil Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
 
@@ -29,6 +30,28 @@
 
 ### Tools and Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Featured projects
+
+- 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+Complete front-end development project with HTML, CSS and JavaScript, covering structuring, styling and interactivity of web pages.
+➡️ Learn more by accessing the repository.
+
+- 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+Conjunto de miniaplicações e exercícios interativos desenvolvidos com JavaScript puro, explorando lógica, DOM e eventos.
+➡️ Navegue pelo repositório para explorar os projetos e seu código.
+
+- 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
+Complete guide to learning the Python language, with explanations, exercises, scripts and projects aimed at beginners and intermediate users.
+➡️ Explore the content and follow the learning journey step by step.
+
+- 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+A system for scheduling appointments for clinics or medical offices, with registration and schedule management features.
+➡️ See the technical details and features in the repository.
+
+- 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+A school report card system with student registration, grades, and performance visualization.
+➡️ Access the full project on GitHub for more information.
 
 ## Education
 - **Master's Degree in Computer Science** *(2024 – 2027)*  
