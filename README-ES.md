@@ -4,9 +4,9 @@
 
 ## 🌐 Idiomas Disponibles
 
+- **[🇪🇸 Spain Version *Estás Aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
 - **[🇺🇸 Versión en Inglés](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
 - **[🇧🇷 Versión en Portugués](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
-- **[🇪🇸 Spain Version *Estás Aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
 
 ## 📬 Contacto 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlosmrqsdev/)
@@ -68,22 +68,22 @@ Sistema de boletines escolares con registro de estudiantes, calificaciones y vis
 - **Maestría en Ciencias de la Computación** *(2024 – 2027)*  
   _Universidad Estácio_    
 
-  ### 🎒 Cursos Relevantes:
+### 🎒 Cursos Relevantes:
   
-  - **Bases de Datos** (Completado)  
-    _Modelado de datos relacional, SQL avanzado y optimización de consultas._  
+- **Bases de Datos** (Completado)  
+_Modelado de datos relacional, SQL avanzado y optimización de consultas._  
 
-  - **Estructuras de Datos** (En curso)  
-    _Algoritmos de ordenamiento, árboles, grafos y gestión eficiente de memoria._  
+- **Estructuras de Datos** (En curso)  
+ _Algoritmos de ordenamiento, árboles, grafos y gestión eficiente de memoria._  
 
-  - **Desarrollo Web** (Completado)  
-    _HTML, CSS, JavaScript y PHP._  
+- **Desarrollo Web** (Completado)  
+_HTML, CSS, JavaScript y PHP._  
 
-  - **Redes de Computadoras** (Completado)  
-    _Fundamentos de TCP/IP, seguridad de redes y protocolos de comunicación._  
+- **Redes de Computadoras** (Completado)  
+_Fundamentos de TCP/IP, seguridad de redes y protocolos de comunicación._  
 
-  - **Ingeniería de Software** (En curso)  
-    _Metodologías ágiles, planificación y diseño de procesos de desarrollo de software._
+- **Ingeniería de Software** (En curso)  
+_Metodologías ágiles, planificación y diseño de procesos de desarrollo de software._
 
 ## 📝 Descripción 
 > 🚀 Soy un estudiante dedicado de Ciencias de la Computación enfocado en el desarrollo web y bases de datos. Me apasiona resolver problemas complejos y compartir conocimientos. Si buscas colaboración o simplemente quieres intercambiar ideas, ¡estoy aquí!
