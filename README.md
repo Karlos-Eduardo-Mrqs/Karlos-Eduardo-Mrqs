@@ -1,6 +1,6 @@
 ![BannerGit](https://github.com/user-attachments/assets/5197ae50-5466-4bbe-8de3-71718a15c593)
 
-# Karlos-Eduardo - Estudante e Programador
+# 🧑🏼‍💻 Karlos-Eduardo - Estudante e Programador
 
 ## 🌐 Idiomas Disponíveis
 
@@ -64,6 +64,7 @@ Um sistema de boletim escolar com registro de alunos, notas e visualização de 
 ➡️ Acesse o projeto completo no GitHub para mais informações.
 
 ## 📘 Formação Acadêmica
+
 - **Pós-Graduação em Ciência da Computação** *(2024 – 2027)*
 _Universidade Estácio_
 
