@@ -64,7 +64,7 @@ A school report card system with student registration, grades, and performance v
 
 ➡️ Access the full project on GitHub for more information.
 
-## 🏫 Education
+## 📘 Education
 - **Master's Degree in Computer Science** *(2024 – 2027)*  
   _Estácio University_    
 
