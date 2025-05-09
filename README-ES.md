@@ -4,9 +4,9 @@
 
 ## 🌐 Idiomas Disponibles
 
-- **[🇪🇸 Spain Version *Estás Aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
-- **[🇺🇸 Versión en Inglés](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
-- **[🇧🇷 Versión en Portugués](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
+- **[🇪🇸 Versión Espanã *Estás Aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
+- **[🇺🇸 Versión americana](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
+- **[🇧🇷 Versión brasileña](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
 
 ## 📬 Contacto 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlosmrqsdev/)
