@@ -102,10 +102,6 @@ Um sistema de boletim escolar com registro de alunos, notas e visualização de 
 
 ## 📊 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
