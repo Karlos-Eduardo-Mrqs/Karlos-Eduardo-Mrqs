@@ -95,10 +95,6 @@ A school report card system with student registration, grades, and performance v
 
 ## 📊 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
