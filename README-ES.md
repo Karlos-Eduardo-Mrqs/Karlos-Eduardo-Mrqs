@@ -1,6 +1,6 @@
 ![BannerGit](./assets/BannerGit.png)
 
-# 🧑🏼‍💻 Karlos-Eduardo - Estudiante y Programador
+# 🧑🏼‍💻 Karlos-Eduardo - Estudiante de Ciencias de la Computación y Programador
 
 ## 🌐 Idiomas Disponibles
 
@@ -51,31 +51,41 @@
 
 ## 🗄️ Proyectos Destacados
 
-- ### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Proyecto completo de desarrollo front-end con HTML, CSS y JavaScript, que abarca estructura, estilos e interactividad de páginas web.
 
 ➡️ Aprende más accediendo al repositorio.
 
-- ### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
 
-Conjunto de miniaplicaciones y ejercicios interactivos desarrollados con JavaScript puro, explorando lógica, DOM y eventos.
-
-➡️ Explora el repositorio para ver los proyectos y su código.
-
-- ### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Guía completa para aprender el lenguaje Python, con explicaciones, ejercicios, scripts y proyectos para principiantes e intermedios.
 
 ➡️ Explora el contenido y sigue el camino de aprendizaje paso a paso.
 
-- ### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
+
+Conjunto de miniaplicaciones y ejercicios interactivos desarrollados con JavaScript puro, explorando lógica, DOM y eventos.
+
+➡️ Explora el repositorio para ver los proyectos y su código.
+
+### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
 
 Sistema para la programación de citas en clínicas o consultorios médicos, con funciones de registro y gestión de agendas.
 
 ➡️ Consulta los detalles técnicos y funcionalidades en el repositorio.
 
-- ### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 
 Sistema de boletines escolares con registro de estudiantes, calificaciones y visualización de rendimiento.
 
@@ -83,26 +93,18 @@ Sistema de boletines escolares con registro de estudiantes, calificaciones y vis
 
 ## 🏫 Educación
 
-- **Maestría en Ciencias de la Computación** *(2024 – 2027)*  
-*Universidad Estácio*
+**Maestría en Ciencias de la Computación** *(2024 – 2027)* *Universidad Estácio*
 
-### 🎒 Cursos Relevantes
-  
-- **Bases de Datos** (Completado)  
-*Modelado de datos relacional, SQL avanzado y optimización de consultas.*  
-
-- **Estructuras de Datos** (En curso)  
- *Algoritmos de ordenamiento, árboles, grafos y gestión eficiente de memoria.*  
-
-- **Desarrollo Web** (Completado)  
-*HTML, CSS, JavaScript y PHP.*  
-
-- **Redes de Computadoras** (Completado)  
-*Fundamentos de TCP/IP, seguridad de redes y protocolos de comunicación.*  
-
-- **Ingeniería de Software** (En curso)  
-*Metodologías ágiles, planificación y diseño de procesos de desarrollo de software.*
-
-## 📝 Descripción
+## 📝 Acerca de Mí
 
 > 🚀 Soy un estudiante dedicado de Ciencias de la Computación enfocado en el desarrollo web y bases de datos. Me apasiona resolver problemas complejos y compartir conocimientos. Si buscas colaboración o simplemente quieres intercambiar ideas, ¡estoy aquí!
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
+</p>

@@ -1,14 +1,14 @@
 ![BannerGit](./assets/BannerGit.png)
 
-# 🧑🏼‍💻 Karlos-Eduardo - Student and Programmer
+# 🧑🏼‍💻 Karlos-Eduardo - Computer Science Student and Programmer
 
 ## 🌐 Available Languages
 
-- **[🇺🇸 English Version *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
+- **[🇺🇸 *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
 
-- **[🇧🇷 Brasil Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
+- **[🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
 
-- **[🇪🇸 Spain Version](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
+- **[🇪🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
 
 ## 📬 Contact
 
@@ -45,31 +45,41 @@
 
 ## 🗄️ Featured projects
 
-- ### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Complete front-end development project with HTML, CSS and JavaScript, covering structuring, styling and interactivity of web pages.
 
 ➡️ Learn more by accessing the repository.
 
-- ### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey) 
 
-Set of mini-applications and interactive exercises developed with pure JavaScript, exploring logic, DOM and events.
-
-➡️ Browse the repository to explore the projects and their code.
-
-- ### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Complete guide to learning the Python language, with explanations, exercises, scripts and projects aimed at beginners and intermediate users.
 
 ➡️ Explore the content and follow the learning journey step by step.
 
-- ### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
+
+Set of mini-applications and interactive exercises developed with pure JavaScript, exploring logic, DOM and events.
+
+➡️ Browse the repository to explore the projects and their code.
+
+### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
 
 A system for scheduling appointments for clinics or medical offices, with registration and schedule management features.
 
 ➡️ See the technical details and features in the repository.
 
-- ### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 
 A school report card system with student registration, grades, and performance visualization.
 
@@ -77,26 +87,18 @@ A school report card system with student registration, grades, and performance v
 
 ## 📘 Education
 
-- **Master's Degree in Computer Science** *(2024 – 2027)*  
-  *Estácio University*
+**Master's Degree in Computer Science** *(2024 – 2027)*  *Estácio University*
 
-  ### 🎒 Relevant Courses
-  
-  - **Databases** (Completed)  
-    *Relational data modeling, advanced SQL, and query optimization.*
-
-  - **Data Structures** (In Progress)  
-    *Sorting algorithms, trees, graphs, and efficient memory management.*
-
-  - **Web Development** (Completed)  
-    *HTML, CSS, JavaScript, and PHP.*
-
-  - **Computer Networks** (Completed)  
-    *TCP/IP fundamentals, network security, and communication protocols.*
-
-  - **Software Engineering** (In Progress)  
-    *Agile methodologies, planning and designing software development processes.*
-
-## 📝 Description
+## 📝 About Me
 
 > 🚀 I am a dedicated Computer Science student focused on web development and databases. I am passionate about solving complex problems and sharing knowledge. If you're looking for collaboration or just want to exchange ideas, I'm here!
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
+</p>

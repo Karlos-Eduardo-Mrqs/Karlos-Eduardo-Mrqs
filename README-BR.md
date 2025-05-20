@@ -1,14 +1,14 @@
 ![BannerGit](./assets/BannerGit.png)
 
-# 🧑🏼‍💻 Karlos-Eduardo - Estudante e Programador
+# 🧑🏼‍💻 Karlos-Eduardo - Estudante de Ciência da Computação e Desenvolvedor
 
 ## 🌐 Idiomas Disponíveis
 
-- **[🇧🇷 Versão Brasil *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
+- **[🇧🇷 *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
 
-- **[🇺🇸 Versão em Inglês](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
+- **[🇺🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
 
-- **[🇪🇸 Versão em Espanhol](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
+- **[🇪🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
 
 ## 📬 Contatos
 
@@ -51,31 +51,41 @@
 
 ## 🗄️ Projetos em Destaque
 
-- ### 📁 [Construção Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
+
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Projeto completo de desenvolvimento front-end com HTML, CSS e JavaScript, abrangendo estruturação, estilização e interatividade de páginas web.
 
 ➡️ Saiba mais acessando o repositório.
 
-- ### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
 
-Conjunto de miniaplicações e exercícios interativos desenvolvidos com JavaScript puro, explorando lógica, DOM e eventos.
-
-➡️ Navegue pelo repositório para explorar os projetos e seus códigos.
-
-- ### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 Guia completo para aprender a linguagem Python, com explicações, exercícios, scripts e projetos voltados para usuários iniciantes e intermediários.
 
 ➡️ Explore o conteúdo e acompanhe a jornada de aprendizado passo a passo.
 
-- ### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
+
+Conjunto de miniaplicações e exercícios interativos desenvolvidos com JavaScript puro, explorando lógica, DOM e eventos.
+
+➡️ Navegue pelo repositório para explorar os projetos e seus códigos.
+
+### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
+
+![Status](https://img.shields.io/badge/status-maintenance-blue)
 
 Um sistema para agendamento de consultas para clínicas ou consultórios médicos, com recursos de cadastro e gerenciamento de agendas.
 
 ➡️ Veja os detalhes técnicos e funcionalidades no repositório.
 
-- ### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
+
+![Status](https://img.shields.io/badge/status-archived-lightgrey)
 
 Um sistema de boletim escolar com registro de alunos, notas e visualização de desempenho.
 
@@ -86,23 +96,16 @@ Um sistema de boletim escolar com registro de alunos, notas e visualização de 
 - **Pós-Graduação em Ciência da Computação** *(2024 – 2027)*
 *Universidade Estácio*
 
-### 🎒 Disciplinas Relevantes
-
-- **Bancos de Dados** (Concluído)
-*Modelagem de Dados Relacionais, SQL Avançado e Otimização de Consultas.*
-
-- **Estruturas de Dados** (Em Andamento)
-*Algoritmos de ordenação, árvores, grafos e gerenciamento eficiente de memória.*
-
-- **Desenvolvimento Web** (Concluído)
-*HTML, CSS, JavaScript e PHP.*
-
-- **Redes de Computadores** (Concluído)
-*Fundamentos de TCP/IP, segurança de redes e protocolos de comunicação.*
-
-- **Engenharia de Software** (Em Andamento)
-*Metodologias ágeis, planejamento e design de processos de desenvolvimento de software.*
-
-## 📝 Descrição
+## 📝 Sobre Mim
 
 > 🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e bancos de dados. Sou apaixonada por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou apenas quer trocar ideias, estou aqui!
+
+## 📊 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
+</p>
