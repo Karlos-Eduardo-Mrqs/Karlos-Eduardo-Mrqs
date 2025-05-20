@@ -52,7 +52,7 @@ Complete front-end development project with HTML, CSS and JavaScript, covering s
 
 ➡️ Learn more by accessing the repository.
 
-### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey) 
+### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
@@ -94,6 +94,10 @@ A school report card system with student registration, grades, and performance v
 
 ## 📊 GitHub Highlights
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
+</p>
