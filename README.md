@@ -4,8 +4,7 @@
 
 ## 🌐 Available Languages
 
-- **[🇺🇸 *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
-
+- **[🇺🇸 *Current*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)** 
 - **[🇧🇷](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
 
 - **[🇪🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
@@ -95,6 +94,6 @@ A school report card system with student registration, grades, and performance v
 
 ## 📊 GitHub Highlights
 
-<img src="https://streak-stats.demolab.com/?user=Karlos-Eduardo-Mrqs&theme=blue-green" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=blue-green&column=4" />
