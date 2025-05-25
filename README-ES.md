@@ -51,45 +51,13 @@
 
 ## 🗄️ Proyectos Destacados
 
-### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-
-Proyecto completo de desarrollo front-end con HTML, CSS y JavaScript, que abarca estructura, estilos e interactividad de páginas web.
-
-➡️ Aprende más accediendo al repositorio.
-
-### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-
-Guía completa para aprender el lenguaje Python, con explicaciones, ejercicios, scripts y proyectos para principiantes e intermedios.
-
-➡️ Explora el contenido y sigue el camino de aprendizaje paso a paso.
-
-### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
-
-![Status](https://img.shields.io/badge/status-maintenance-blue)
-
-Conjunto de miniaplicaciones y ejercicios interactivos desarrollados con JavaScript puro, explorando lógica, DOM y eventos.
-
-➡️ Explora el repositorio para ver los proyectos y su código.
-
-### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
-
-![Status](https://img.shields.io/badge/status-maintenance-blue)
-
-Sistema para la programación de citas en clínicas o consultorios médicos, con funciones de registro y gestión de agendas.
-
-➡️ Consulta los detalles técnicos y funcionalidades en el repositorio.
-
-### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
-
-![Status](https://img.shields.io/badge/status-archived-lightgrey)
-
-Sistema de boletines escolares con registro de estudiantes, calificaciones y visualización de rendimiento.
-
-➡️ Accede al proyecto completo en GitHub para más información.
+| Nombre del Proyecto       | Estado                                                                | Descripción                                                                                             | Enlace                                                                                         |
+| ------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Construction Html-Css-Js  | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Proyecto completo de desarrollo front-end con HTML, CSS y JavaScript, que abarca estructura, estilos e interactividad de páginas web. | [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript) |
+| Python-Journey           | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Guía completa para aprender el lenguaje Python, con explicaciones, ejercicios, scripts y proyectos para principiantes e intermedios. | [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)                         |
+| Javascript-Projects      | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Conjunto de miniaplicaciones y ejercicios interactivos desarrollados con JavaScript puro, explorando lógica, DOM y eventos. | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)               |
+| HealthSched              | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Sistema para la programación de citas en clínicas o consultorios médicos, con funciones de registro y gestión de agendas. | [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)            |
+| Autumn                   | ![Status](https://img.shields.io/badge/status-archived-lightgrey)    | Sistema de boletines escolares con registro de estudiantes, calificaciones y visualización de rendimiento. | [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)                              |
 
 ## 🏫 Educación
 
