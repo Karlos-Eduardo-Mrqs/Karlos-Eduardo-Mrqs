@@ -51,45 +51,13 @@
 
 ## 🗄️ Projetos em Destaque
 
-### 📁 [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-
-Projeto completo de desenvolvimento front-end com HTML, CSS e JavaScript, abrangendo estruturação, estilização e interatividade de páginas web.
-
-➡️ Saiba mais acessando o repositório.
-
-### 🐍 [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)
-
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-
-Guia completo para aprender a linguagem Python, com explicações, exercícios, scripts e projetos voltados para usuários iniciantes e intermediários.
-
-➡️ Explore o conteúdo e acompanhe a jornada de aprendizado passo a passo.
-
-### 💼 [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)
-
-![Status](https://img.shields.io/badge/status-maintenance-blue)
-
-Conjunto de miniaplicações e exercícios interativos desenvolvidos com JavaScript puro, explorando lógica, DOM e eventos.
-
-➡️ Navegue pelo repositório para explorar os projetos e seus códigos.
-
-### 🥼 [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)
-
-![Status](https://img.shields.io/badge/status-maintenance-blue)
-
-Um sistema para agendamento de consultas para clínicas ou consultórios médicos, com recursos de cadastro e gerenciamento de agendas.
-
-➡️ Veja os detalhes técnicos e funcionalidades no repositório.
-
-### 🏫 [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)
-
-![Status](https://img.shields.io/badge/status-archived-lightgrey)
-
-Um sistema de boletim escolar com registro de alunos, notas e visualização de desempenho.
-
-➡️ Acesse o projeto completo no GitHub para mais informações.
+| Nome do Projeto          | Status                                                               | Descrição                                                                                         | Link                                                                                          |
+| ----------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| Construction Html-Css-Js | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Projeto completo de front-end com HTML, CSS e JavaScript, abrangendo estruturação, estilização e interatividade de páginas web. | [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript) |
+| Python-Journey          | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Guia completo para aprender Python, com explicações, exercícios, scripts e projetos para iniciantes e intermediários.             | [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)                         |
+| Javascript-Projects     | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Conjunto de miniaplicações e exercícios interativos em JavaScript puro, explorando lógica, DOM e eventos.                          | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)               |
+| HealthSched             | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Sistema para agendamento de consultas para clínicas ou consultórios, com cadastro e gerenciamento de agendas.                      | [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)            |
+| Autumn                  | ![Status](https://img.shields.io/badge/status-archived-lightgrey)    | Sistema de boletim escolar com registro de alunos, notas e visualização de desempenho.                                                    | [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)                              |
 
 ## 📘 Formação Acadêmica
 
