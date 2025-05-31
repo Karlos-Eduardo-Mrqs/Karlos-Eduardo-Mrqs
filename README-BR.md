@@ -4,11 +4,8 @@
 
 ## 🌐 Idiomas Disponíveis
 
-- **[🇧🇷 *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)**
-
-- **[🇺🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**
-
-- **[🇪🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)**
+|**[🇧🇷 *você está aqui*](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)** | **[🇺🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)**| **[🇪🇸](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)** |
+|---|---|---|
 
 ## 📬 Contatos
 
@@ -71,7 +68,8 @@
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=blue-green" 
+  />
 </p>
 
 <p align="center">
