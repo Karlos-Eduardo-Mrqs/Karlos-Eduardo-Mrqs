@@ -50,11 +50,12 @@
 
 | Nome do Projeto          | Status                                                               | Descrição                                                                                         | Link                                                                                          |
 | ----------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Construction Html-Css-Js | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Projeto completo de front-end com HTML, CSS e JavaScript, abrangendo estruturação, estilização e interatividade de páginas web. | [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript) |
-| Python-Journey          | ![Status](https://img.shields.io/badge/status-in%20progress-yellow)  | Guia completo para aprender Python, com explicações, exercícios, scripts e projetos para iniciantes e intermediários.             | [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)                         |
-| Javascript-Projects     | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Conjunto de miniaplicações e exercícios interativos em JavaScript puro, explorando lógica, DOM e eventos.                          | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)               |
-| HealthSched             | ![Status](https://img.shields.io/badge/status-maintenance-blue)      | Sistema para agendamento de consultas para clínicas ou consultórios, com cadastro e gerenciamento de agendas.                      | [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)            |
-| Autumn                  | ![Status](https://img.shields.io/badge/status-archived-lightgrey)    | Sistema de boletim escolar com registro de alunos, notas e visualização de desempenho.                                                    | [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)                              |
+| Pousada Maré Mansa                   | ![Status](https://img.shields.io/badge/status-concluido-green)   |Sistema de gerenciamento para uma pousada, desenvolvido com **Python**, **Tkinter** e **SQLite**, utilizando uma arquitetura **MVC**.| [Pousada Mare Mansa](https://github.com/Karlos-Eduardo-Mrqs/Pousada-Mare-Mansa)
+| Construction Html-Css-Js | ![Status](https://img.shields.io/badge/status-desenvolvendo-yellow)  | Projeto completo de front-end com HTML, CSS e JavaScript, abrangendo estruturação, estilização e interatividade de páginas web. | [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript) |
+| Python-Journey          | ![Status](https://img.shields.io/badge/status-desenvolvendo-yellow)  | Guia completo para aprender Python, com explicações, exercícios, scripts e projetos para iniciantes e intermediários.             | [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)                         |
+| Javascript-Projects     | ![Status](https://img.shields.io/badge/status-manutenção-blue)      | Conjunto de miniaplicações e exercícios interativos em JavaScript puro, explorando lógica, DOM e eventos.                          | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)               |
+| HealthSched             | ![Status](https://img.shields.io/badge/status-manutenção-blue)      | Sistema para agendamento de consultas para clínicas ou consultórios, com cadastro e gerenciamento de agendas.                      | [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)            |
+| Autumn                  | ![Status](https://img.shields.io/badge/status-arquivado-lightgrey)    | Sistema de boletim escolar com registro de alunos, notas e visualização de desempenho.                                                    | [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)                              |
 
 ## 📘 Formação Acadêmica
 
@@ -63,7 +64,7 @@
 
 ## 📝 Sobre Mim
 
-> 🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e bancos de dados. Sou apaixonada por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou apenas quer trocar ideias, estou aqui!
+> 🚀 Sou um estudante dedicado de Ciência da Computação com foco em desenvolvimento web e bancos de dados. Sou apaixonado por resolver problemas complexos e compartilhar conhecimento. Se você busca colaboração ou apenas quer trocar ideias, estou aqui!
 
 ## 📊 GitHub Highlights
 
