@@ -53,7 +53,7 @@
 
 ## 📘 Education
 
-**Bachelor’s Degree in Computer Science** *(2024 – 2027)*  
+**Postgraduate Degree in Computer Science** *(2024 – 2027)*  
 *Estácio University*
 
 ---
