@@ -53,7 +53,7 @@
 
 ## 📘 Formación Académica
 
-**Maestría en Ciencias de la Computación** *(2024 – 2027)*  
+**Posgrado en Ciencias de la Computación** *(2024 – 2027)*  
 *Universidad Estácio*
 
 ---
