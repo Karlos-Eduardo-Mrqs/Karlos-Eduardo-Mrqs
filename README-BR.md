@@ -53,7 +53,7 @@
 
 ## 📘 Formação Acadêmica
 
-**Mestrado em Ciência da Computação** *(2024 – 2027)*  
+**Pós-Graduação em Ciência da Computação** *(2024 – 2027)*  
 *Universidade Estácio*
 
 ---
