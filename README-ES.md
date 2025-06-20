@@ -2,20 +2,14 @@
 
 # 🧑🏼‍💻 Karlos-Eduardo – Estudiante de Ciencias de la Computación y Programador
 
----
-
 ## 🌐 Idiomas Disponibles
 
 | **[🇪🇸 Español 🌟](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)** | **[🇺🇸 English](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)** | **[🇧🇷 Português Brasil](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)** |
 |:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
 
----
-
 ## 📬 Contacto
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlosmrqsdev/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadumcarlos@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979667744)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/carloseduardo080765)
-
----
 
 ## 📱 Tecnologías
 
@@ -35,8 +29,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 
----
-
 ## 🗄️ Proyectos Destacados
 
 | Proyecto                 | Estado                                                                 | Descripción                                                                                                                      | Enlace                                                                                           |
@@ -49,22 +41,16 @@
 | HealthSched              | ![Mantenimiento](https://img.shields.io/badge/status-maintenance-blue) | Sistema de citas médicas para clínicas, con funcionalidades de registro y gestión de horarios.| [HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)|
 | Autumn                   | ![Archivado](https://img.shields.io/badge/status-archived-lightgrey)  | Sistema de boletines escolares con registro de estudiantes, notas y visualización del rendimiento.| [Autumn](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)                                |
 
----
-
 ## 📘 Formación Académica
 
 **Posgrado en Ciencias de la Computación** *(2024 – 2027)*  
 *Universidad Estácio*
-
----
 
 ## 📝 Sobre Mí
 
 > 🚀 Soy un estudiante dedicado de Ciencias de la Computación, enfocado en desarrollo web y bases de datos.  
 > Apasionado por resolver problemas complejos y compartir conocimiento.  
 > Si estás buscando colaboración o simplemente quieres intercambiar ideas, ¡contáctame!
-
----
 
 ## 📊 Destacados en GitHub
 
