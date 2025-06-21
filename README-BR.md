@@ -4,7 +4,7 @@
 
 ## 🌐 Idiomas Disponíveis
 
-| **[🇧🇷 Português Brasil 🌟](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)** | **[🇺🇸 English](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)** | **[🇪🇸 Español](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)** |
+| **[🇧🇷 Português Brasil 🌟](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-BR.md)** | **[🇺🇸 English](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README.md)** | **[🇪🇸 Espanhol](https://github.com/Karlos-Eduardo-Mrqs/Karlos-Eduardo-Mrqs/blob/main/README-ES.md)** |
 |:-------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 
 ## 📬 Contato
