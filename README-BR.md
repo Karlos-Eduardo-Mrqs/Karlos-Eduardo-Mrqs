@@ -53,9 +53,9 @@
 
 ## 📝 Sobre Mim
 
-| Claro ☀️ | Noturno 🌑 |
-|---------------|----------------|
-| ![Typing SVG - Claro](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=2E7D32&background=F5F5F5&center=true&vCenter=true&width=900&lines=%3E+print('Sou+um+estudante+dedicado+de+Ciência+da+Computação')%3B%3E+print('Foco+em+desenvolvimento+web+e+bancos+de+dados')%3B%3E+print('Apaixonado+por+resolver+problemas+complexos')%3B%3E+print('Compartilhar+conhecimento+é+meu+hobby')%3B%3E+print('Se+busca+colaboração+ou+trocar+ideias...')%3B%3E+print('Estou+à+disposição!')%3B) | ![Typing SVG - Escuro](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=900&lines=%3E+print('Sou+um+estudante+dedicado+de+Ciência+da+Computação')%3B%3E+print('Foco+em+desenvolvimento+web+e+bancos+de+dados')%3B%3E+print('Apaixonado+por+resolver+problemas+complexos')%3B%3E+print('Compartilhar+conhecimento+é+meu+hobby')%3B%3E+print('Se+busca+colaboração+ou+trocar+ideias...')%3B%3E+print('Estou+à+disposição!')%3B) |
+| ☀️ **Claro** | 🌑 **Noturno** |
+|--------------|----------------|
+| ![Typing SVG - Claro](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=102036&background=f9ecca&center=true&vCenter=true&width=900&lines=%3E+print('Sou+estudante+de+Ciência+da+Computação')%3B%3E+print('Focado+em+desenvolvimento+web+e+bancos+de+dados')%3B%3E+print('Apaixonado+por+resolver+problemas')%3B%3E+print('Compartilhar+conhecimento+é+meu+hobby')%3B%3E+print('Vamos+trocar+ideias%3F+Estou+à+disposição!')%3B) | ![Typing SVG - Noturno](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=f8a50e&background=000000&center=true&vCenter=true&width=900&lines=%3E+print('Sou+estudante+de+Ciência+da+Computação')%3B%3E+print('Focado+em+desenvolvimento+web+e+bancos+de+dados')%3B%3E+print('Apaixonado+por+resolver+problemas')%3B%3E+print('Compartilhar+conhecimento+é+meu+hobby')%3B%3E+print('Vamos+trocar+ideias%3F+Estou+à+disposição!')%3B) |
 
 ### 📘 Formação Acadêmica
 
