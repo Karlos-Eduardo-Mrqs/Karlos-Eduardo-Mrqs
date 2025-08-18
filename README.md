@@ -53,7 +53,9 @@
 
 ## 📝 About Me
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Sharing+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B)
+| Light ☀️ | Dark 🌑 |
+|---------------|----------------|
+| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=2E7D32&background=F5F5F5&center=true&vCenter=true&width=900&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Sharing+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B) | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=900&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Sharing+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B)|
 
 ### 📘 Academic Background
 
@@ -64,7 +66,7 @@
 
 | Project                  | Status                                                                | Description                                                                                                                    | Link                                                                                             |
 |--------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Pousada Maré Mansa       | ![Completed](https://img.shields.io/badge/status-concluded-green)    | Inn management system developed with **Python**, **Tkinter** and **SQLite**, using **MVC** architecture.| [Pousada Maré Mansa](https://github.com/Karlos-Eduardo-Mrqs/Pousada-Mare-Mansa)|
+| Pousada Maré Mansa       | ![Completed](https://img.shields.io/badge/status-concluded-green)    | In management system developed with **Python**, **Tkinter** and **SQLite**, using **MVC** architecture.| [Pousada Maré Mansa](https://github.com/Karlos-Eduardo-Mrqs/Pousada-Mare-Mansa)|
 | Construction Html-Css-Js | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow) | Complete front-end project with HTML, CSS, and JavaScript covering structure, styling, and interactivity.| [Construction Html-Css-Js](https://github.com/Karlos-Eduardo-Mrqs/Construction-Html-Css-Javascript) |
 | Python-Journey           | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow) | Complete Python guide with explanations, exercises, scripts, and projects for beginners and intermediates.| [Python-Journey](https://github.com/Karlos-Eduardo-Mrqs/Python-Journey)|
 | Operational Works        | ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow) | Repository of algorithmic solutions and simple problems in **C++**, **Python**, and **Java**, organized by logic and topic.| [Operational Works](https://github.com/Karlos-Eduardo-Mrqs/Operational_Works)|
