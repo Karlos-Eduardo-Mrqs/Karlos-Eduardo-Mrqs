@@ -53,7 +53,9 @@
 
 ## 📝 Sobre Mí
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=900&lines=%3E+print('Soy+un+estudiante+dedicado+de+Ciencia+de+la+Computaci%C3%B3n')%3B%3E+print('Enfocado+en+desarrollo+web+y+bases+de+datos')%3B%3E+print('Apasionado+por+resolver+problemas+complejos')%3B%3E+print('Compartir+conocimiento+es+mi+hobby')%3B%3E+print('Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...')%3B%3E+print('Estoy+a+disposici%C3%B3n!')%3B)
+| Claro ☀️ | Nocturno 🌑 |
+|------------|-------------|
+| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=2E7D32&background=F5F5F5&center=true&vCenter=true&width=900&lines=%3E+print('Soy+un+estudiante+dedicado+de+Ciencia+de+la+Computaci%C3%B3n')%3B%3E+print('Enfocado+en+desarrollo+web+y+bases+de+datos')%3B%3E+print('Apasionado+por+resolver+problemas+complejos')%3B%3E+print('Compartir+conocimiento+es+mi+hobby')%3B%3E+print('Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...')%3B%3E+print('Estoy+a+disposici%C3%B3n!')%3B) | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=00FF7F&background=000000&center=true&vCenter=true&width=900&lines=%3E+print('Soy+un+estudiante+dedicado+de+Ciencia+de+la+Computaci%C3%B3n')%3B%3E+print('Enfocado+en+desarrollo+web+y+bases+de+datos')%3B%3E+print('Apasionado+por+resolver+problemas+complejos')%3B%3E+print('Compartir+conocimiento+es+mi+hobby')%3B%3E+print('Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...')%3B%3E+print('Estoy+a+disposici%C3%B3n!')%3B) |
 
 ### 📘 Formación Académica
 
