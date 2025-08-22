@@ -53,9 +53,13 @@
 
 ## 📝 About Me
 
-| Light ☀️ | Dark 🌑 |
-|---------------|----------------|
-| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=102036&background=f9ecca&center=true&vCenter=true&width=900&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Searching+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B) | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=f8a50e&background=000000&center=true&vCenter=true&width=900&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Searching+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B)|
+| Light ☀️ |
+|--------------------------------|
+| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=1200&size=28&pause=1000&color=102036&background=f9ecca&center=true&vCenter=true&width=1000&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Searching+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B) |
+
+| Dark 🌑 |
+|--------------------------------|
+| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=1200&size=28&pause=1000&color=f8a50e&background=000000&center=true&vCenter=true&width=1000&lines=%3E+print('I+am+a+dedicated+Computer+Science+student')%3B%3E+print('Focused+on+web+development+and+databases')%3B%3E+print('Passionate+about+solving+complex+problems')%3B%3E+print('Searching+knowledge+is+my+hobby')%3B%3E+print('If+you+seek+collaboration+or+to+exchange+ideas...')%3B%3E+print('I+am+available!')%3B)|
 
 ### 📘 Academic Background
 
