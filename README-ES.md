@@ -53,9 +53,14 @@
 
 ## 📝 Sobre Mí
 
-| Claro ☀️ | Nocturno 🌑 |
-|------------|-------------|
-|  ![Typing SVG Claro](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=102036&background=f9ecca&center=true&vCenter=true&width=900&lines=%3E+print(%27Estudio+Ciencia+de+la+Computaci%C3%B3n%27)%3B%3E+print(%27Enfocado+en+desarrollo+web+y+bases+de+datos%27)%3B%3E+print(%27Apasionado+por+resolver+problemas+complejos%27)%3B%3E+print(%27Compartir+conocimiento+es+mi+hobby%27)%3B%3E+print(%27Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...%27)%3B%3E+print(%27Estoy+a+disposici%C3%B3n!%27)%3B) | ![Typing SVG Nocturno](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=24&pause=1000&color=f8a50e&background=000000&center=true&vCenter=true&width=900&lines=%3E+print(%27Estudio+Ciencia+de+la+Computaci%C3%B3n%27)%3B%3E+print(%27Enfocado+en+desarrollo+web+y+bases+de+datos%27)%3B%3E+print(%27Apasionado+por+resolver+problemas+complejos%27)%3B%3E+print(%27Compartir+conocimiento+es+mi+hobby%27)%3B%3E+print(%27Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...%27)%3B%3E+print(%27Estoy+a+disposici%C3%B3n!%27)%3B) |
+| Claro ☀️ |
+|--------------------------|
+|  ![Typing SVG Claro](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=1200&size=28&pause=1000&color=102036&background=f9ecca&center=true&vCenter=true&width=1000&lines=%3E+print(%27Estudio+Ciencia+de+la+Computaci%C3%B3n%27)%3B%3E+print(%27Enfocado+en+desarrollo+web+y+bases+de+datos%27)%3B%3E+print(%27Apasionado+por+resolver+problemas+complejos%27)%3B%3E+print(%27Buscar+conocimiento+es+mi+hobby%27)%3B%3E+print(%27Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...%27)%3B%3E+print(%27Estoy+a+disposici%C3%B3n!%27)%3B) |
+
+| Nocturno 🌑 |
+|--------------------------|
+| ![Typing SVG Nocturno](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=1200&size=28&pause=1000&color=f8a50e&background=000000&center=true&vCenter=true&width=1000&lines=%3E+print(%27Estudio+Ciencia+de+la+Computaci%C3%B3n%27)%3B%3E+print(%27Enfocado+en+desarrollo+web+y+bases+de+datos%27)%3B%3E+print(%27Apasionado+por+resolver+problemas+complejos%27)%3B%3E+print(%27Buscar+conocimiento+es+mi+hobby%27)%3B%3E+print(%27Si+buscas+colaboraci%C3%B3n+o+intercambiar+ideas...%27)%3B%3E+print(%27Estoy+a+disposici%C3%B3n!%27)%3B) |
+
 
 ### 📘 Formación Académica
 
