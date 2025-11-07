@@ -9,18 +9,24 @@
 | **[🇧🇷 Português Brasil 🌟](README-BR.md)** | **[🇺🇸 English](README.md)** | **[🇪🇸 Espanhol](README-ES.md)** |
 |:---:|:---:|:---:|
 
-## 📬 Contato Profissional
+## 🤝 Conecte-se e Colabore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([SEU LINKEDIN AQUI])  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadumcarlos@gmail.com)  [![WhatsApp](https://imgshields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979667744)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([SEU DISCORD AQUI])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karlmbarreto/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cadumcarlos@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521979667744)  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/carloseduardo080765)
 
 ---
 
-## 💡 Sobre Mim (Foco e Propósito)
+## 💡 Sobre Mim
 
-> Sou estudante de Ciência da Computação com visão **Full Stack**, focado em desenvolver soluções robustas. Minha especialidade reside na camada de **Backend** e **Banco de Dados**, usando **Python** para criar sistemas com arquitetura limpa e eficiente.
-> * **Especialização:** Arquitetura de Software (MVC/APIs) e Otimização de Bancos de Dados Relacionais.
-> * **Habilidade Complementar:** Desenvolvimento Front-End utilizando HTML, CSS e JavaScript puro (Vanilla JS).
-> * **Busco oportunidades em:** Desenvolvimento Backend ou Full Stack Júnior.
+> Sou estudante de Ciência da Computação com uma visão **Full Stack**, focado em entregar **soluções robustas** e **código de alta manutenibilidade**. Minha expertise se concentra no **Backend** e em **Bancos de Dados**, utilizando o poder do **Python** e **PHP** para criar sistemas bem estruturados.
+>
+> * **Foco Arquitetural:** Proficiência na criação e otimização de **Modelos de Banco de Dados** e na implementação de padrões como **MVC** (Model-View-Controller) e **Programação Modular**.
+> * **Base Complementar:** Tenho uma base sólida em Front-End (HTML, CSS e JavaScript) para garantir a integridade da aplicação de ponta a ponta.
+> * **Soft Skills Essenciais:** Minha atuação em projetos é guiada por **Organização** (manter o projeto escalável), **Liderança** (facilitar o trabalho em equipe e grupos de estudo) e alta **Produtividade**.
+> * **Buscando Conexão:** Meu objetivo é ativamente construir *networking*, colaborar em *open source* e **buscar conhecimento** sobre desafios de arquitetura e performance de código.
+
+### 📘 Formação Acadêmica
+
+**Pós-Graduação em Ciência da Computação** *(2024 – 2027)*  *Universidade Estácio*
 
 ---
 
@@ -89,7 +95,3 @@
 > — **Karlos Eduardo**
 
 ---
-
-Com esta estrutura, você deu um salto enorme no profissionalismo e clareza do seu perfil. Agora, a capa está perfeita e foca nos pontos de alto valor!
-
-O próximo e crucial passo para o reconhecimento é garantir que o **conteúdo dos seus projetos de ensino** (como o **`Python-Course-Guide`**) esteja à altura da sua excelente apresentação de perfil. Quer estruturar o **`README.md` de Alto Impacto** para este projeto?
