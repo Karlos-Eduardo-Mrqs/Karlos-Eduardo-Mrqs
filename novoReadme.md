@@ -21,7 +21,7 @@
 >
 > * **Foco Arquitetural:** Proficiência na criação e otimização de **Modelos de Banco de Dados** e na implementação de padrões como **MVC** (Model-View-Controller) e **Programação Modular**.
 > * **Base Complementar:** Tenho uma base sólida em Front-End (HTML, CSS e JavaScript) para garantir a integridade da aplicação de ponta a ponta.
-> * **Soft Skills Essenciais:** Minha atuação em projetos é guiada por **Organização** (manter o projeto escalável), **Liderança** (facilitar o trabalho em equipe e grupos de estudo) e alta **Produtividade**.
+> * **Soft Skills Essenciais:** Minha atuação em projetos é guiada por **Organização** (manter o projeto escalável), **Liderança** (facilitar o trabalho em equipe e grupos de estudo), alta **Produtividade** e **Pensamento Crítico** abordando uma **visão analítica**, focada em **desmembrar problemas complexos de lógica**.
 > * **Buscando Conexão:** Meu objetivo é ativamente construir *networking*, colaborar em *open source* e **buscar conhecimento** sobre desafios de arquitetura e performance de código.
 
 ### 📘 Formação Acadêmica
@@ -43,7 +43,7 @@
 
 | Essenciais | Frameworks CSS |
 | :---: | :---: |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)   ![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)   ![Bulma](https://img.shields.io/badge/Bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) |
 
 ### 🧠 Linguagens de Programação (Lógica e Computação)
 
@@ -69,9 +69,10 @@
 | **Pousada Agendamento (Maré Mansa)** | ![Concluído](https://img.shields.io/badge/status-concluded-green) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white) | **Backend MVC/Desktop.** Próximo passo: Refatoração para usar **SQLAlchemy** ou migrar para **PostgreSQL**. **Aceito feedback sobre a arquitetura!** | [Pousada-Mare-Mansa](https://github.com/Karlos-Eduardo-Mrqs/Pousada-Mare-Mansa)|
 | **Python-Course-Guide** | ![Em progresso](https://img.shields.io/badge/status-in%20progress-yellow) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | **Guia Comunitário de Python.** Busco exemplos de código mais claros ou revisões de didática. **Contribua com seus próprios exercícios!** | [Python-Course-Guide](https://github.com/Karlos-Eduardo-Mrqs/Python-Course-Guide)|
 | **Guia de Algoritmos (DSA)** | ![Em progresso](https://img.shields.io/badge/status-in%20progress-yellow) | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | **Foco em DSA/OOP.** Repositório de problemas de lógica em três linguagens. Preciso de ajuda para adicionar **testes unitários**. | [Operational_Works](https://github.com/Karlos-Eduardo-Mrqs/Operational_Works)|
-| **Vanilla-JS-Demos** | ![Manutenção](https://img.shields.io/badge/status-maintenance-blue) | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | **Manipulação de DOM e Lógica Front-End.** Busco ideias para transformar estes demos em um **Portfólio Web** coerente. | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)|
+| **Project-JS-Demos** | ![Manutenção](https://img.shields.io/badge/status-maintenance-blue) | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) | **Manipulação de DOM e Lógica Front-End.** Busco ideias para transformar estes demos em um **Portfólio Web** coerente. | [Javascript-Projects](https://github.com/Karlos-Eduardo-Mrqs/Javascript-Projects)|
 | **HealthSched (Agendamento)** | ![Manutenção](https://img.shields.io/badge/status-maintenance-blue) | ![HTML5] ![CSS3] ![JavaScript] ![PHP] | **Sistema de Agendamento** para clínicas, focado no Back-End em PHP. **Buscando referências** sobre modelos de BD e design de APIs. | [Scheduling_Project-HealthSched](https://github.com/Karlos-Eduardo-Mrqs/Scheduling_Project-HealthSched)|
 | **Autumn (Boletim Escolar)** | ![Arquivado](https://img.shields.io/badge/status-archived-lightgrey) | ![HTML5] ![CSS3] ![JavaScript] ![PHP] | **Sistema de Boletim Escolar.** Projeto arquivado. Aceito perguntas e *Pull Requests* para migrar para um DB moderno como **PostgreSQL**. | [Bulletin_Project](https://github.com/Karlos-Eduardo-Mrqs/Bulletin_Project)|
+
 ---
 
 ## 📊 Destaques do GitHub (Atividade e Engajamento)  
@@ -90,7 +91,9 @@
 
 ---
 
-> 💬 “Nunca se esqueça e nunca desista dos seus sonhos.”  
-> — **Karlos Eduardo**
+> ⚔️ **Visão e Estratégia:** “Você deve entender que há mais de um caminho para o topo da montanha.”
+> — **Musashi Miyamoto**
+>
+> *Meu objetivo é seguir o caminho estratégico para o técnico. Se você compartilha desta mentalidade de aprendizado e busca por soluções, **vamos nos conectar!***
 
 ---
