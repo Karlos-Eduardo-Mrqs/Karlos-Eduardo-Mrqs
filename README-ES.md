@@ -4,7 +4,7 @@
 
 ## 🌍 Idiomas Disponibles
 
-| **[🇧🇷 Portugués Brasil](README-BR.md)** | **[🇺🇸 Inglés](README.md)** | **[🇪🇸 Español 🌟](README-ES.md)** |
+| **[🇧🇷 Portugués Brasil](README.md)** | **[🇺🇸 Inglés](README-US.md)** | **[🇪🇸 Español 🌟](README-ES.md)** |
 |:-----------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 
 ## 📬 Contacto
@@ -75,8 +75,7 @@
 
 #### 📘 Formación Académica
 
-**Posgrado en Ciencias de la Computación** *(2024 – 2027)*  
-*Universidad Estácio*
+**Licenciatura en Ciencias de la Computación** *(2024 – 2027)* *Universidad Estácio*
 
 ---
 
