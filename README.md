@@ -95,13 +95,13 @@
 
 ## 📊 Destaques do GitHub  
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br"/>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karlos-Eduardo-Mrqs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center"> <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Karlos-Eduardo-Mrqs&theme=tokyonight&column=4&no-frame=true&margin-w=40&margin-h=15&hide_border=true"/>
 </p>
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlos-Eduardo-Mrqs&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karlos-Eduardo-Mrqs&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
