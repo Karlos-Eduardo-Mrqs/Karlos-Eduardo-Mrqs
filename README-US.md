@@ -43,22 +43,6 @@
 
 ---
 
-## 🗄️ Office Tools
-
-### 🪟 Microsoft
-
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)  [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/powerpoint)  [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/word)
-
-### ☁️ Google
-
-[![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/)  [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://sheets.google.com)  [![Google Slides](https://img.shields.io/badge/Google_Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white)](https://slides.google.com)
-
-#### 🖌️ Design
-
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-
----
-
 ## 📝 About Me
 
 | Light ☀️ |
