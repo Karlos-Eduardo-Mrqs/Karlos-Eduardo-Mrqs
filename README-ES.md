@@ -1,14 +1,14 @@
 ![BannerGit](./assets/BannerGit.png)
 
-<p style="color: #F0ECD7; font-family: serif; font-size: 1.1em;" align="center">
-  <b> Carlos-Eduardo | Estudiante de Ciencias de la Computación y Desarrollador de Software </b>
-</p>
-
 <div align="center" name="languages">
   <a href="README.md" style="color:#F2A31A;">🇧🇷 Português</a> •
   <a href="README-US.md" style="color:#F2A31A;">🇺🇸 English</a> •
   <a href="README-ES.md" style="color:#F2A31A;"><b>🇪🇸 Español</b></a>
 </div>
+
+<p style="color: #F0ECD7; font-family: serif; font-size: 1.1em;" align="center">
+  <b> Carlos-Eduardo | Estudiante de Ciencias de la Computación y Desarrollador de Software </b>
+</p>
 
 ---
 
