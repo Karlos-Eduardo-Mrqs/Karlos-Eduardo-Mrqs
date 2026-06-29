@@ -1,4 +1,4 @@
-![BannerGit](./assets/BannerGit.png)
+![BannerGit](./assets/BannerGit_ES.png)
 
 <div align="center" name="languages">
   <a href="README.md" style="color:#F2A31A;">🇧🇷 Português</a> •
@@ -32,7 +32,7 @@ Tengo facilidad para las explicaciones técnicas rigurosas paso a paso y siempre
 
 <details>
   <summary>
-    <b style="font-size: 1.3em; color: #F2A31A;">🧑‍💻 Proyectos Individuales</b>
+    <b style="font-size: 1.3em; color: #F2A31A;">🧑‍💻 Individuales</b>
   </summary>
   <br/>
 
@@ -102,7 +102,7 @@ Tengo facilidad para las explicaciones técnicas rigurosas paso a paso y siempre
 
 <details>
   <summary>
-    <b style="font-size: 1.3em; color: #F2A31A;">👥 Trabajo en Equipo</b>
+    <b style="font-size: 1.3em; color: #F2A31A;">👥  En Equipo</b>
   </summary>
   <br/>
 

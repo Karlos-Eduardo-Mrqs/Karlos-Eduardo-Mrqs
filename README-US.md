@@ -1,4 +1,4 @@
-![BannerGit](./assets/BannerGit.png)
+![BannerGit](./assets/BannerGit_US.png)
 
 <div align="center" name="languages">
   <a href="README.md" style="color:#F2A31A;">🇧🇷 Português</a> •
@@ -33,7 +33,7 @@ I have a knack for step-by-step rigorous technical explanations and always seek 
 
 <details>
   <summary>
-    <b style="font-size: 1.3em; color: #F2A31A;">🧑‍💻 Individual Projects</b>
+    <b style="font-size: 1.3em; color: #F2A31A;">🧑‍💻 Individual</b>
   </summary>
   <br/>
 
