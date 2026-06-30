@@ -118,7 +118,7 @@ Tenho facilidade com explicações técnicas rigorosas passo a passo e busco sem
       <br/><br/>
       🛠️ <b style="color: #F2A31A;">Stack Envolvida:</b> <code>Java</code> • <code>Spring Boot</code> • <code>HTML</code><br/>
       🎯 <b style="color: #F2A31A;">Aprendizado:</b> Leitura de código de terceiros e entendimento do ecossistema e injeção de dependências do Spring.<br/>
-      🔗 <a href="https://github.com/Karlos-Eduardo-Mrqs/Projeto-Financa_SpringBoot" style="color: #EA5E26;">Acessar Repositório</a>
+      🔗 <a href="https://github.com/Lucas-deAndrade21/Projeto-Financa_SpringBoot" style="color: #EA5E26;">Acessar Repositório</a>
     </blockquote>
   </details>
 
