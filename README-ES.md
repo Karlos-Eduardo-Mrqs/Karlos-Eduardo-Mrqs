@@ -238,7 +238,7 @@ Tengo facilidad para las explicaciones técnicas rigurosas paso a paso y siempre
   <a href="mailto:cadumcarlos@gmail.com"><img src="https://img.shields.io/badge/Gmail-112338?style=for-the-badge&logo=gmail&logoColor=F2A31A" alt="Gmail"></a> &nbsp;
   <a href="https://wa.me/5521979667744"><img src="https://img.shields.io/badge/WhatsApp-112338?style=for-the-badge&logo=whatsapp&logoColor=F2A31A" alt="WhatsApp"></a> &nbsp;
   <a href="https://discord.com/users/carloseduardo080765"><img src="https://img.shields.io/badge/Discord-112338?style=for-the-badge&logo=discord&logoColor=F2A31A" alt="Discord"></a>
-  <a href="https://www.linkedin.com/in/carlos-eduardo-marques-barreto-003926389/?locale=es-ES">
+  <a href="https://www.linkedin.com/in/carlos-eduardom-barreto/?locale=es-ES">
   <img src="https://img.shields.io/badge/LinkedIn-112338?style=for-the-badge&logo=linkedin&logoColor=F2A31A&cacheSeconds=1" alt="LinkedIn">
 </a>
 </div>
