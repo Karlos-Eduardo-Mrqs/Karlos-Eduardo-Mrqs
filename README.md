@@ -18,12 +18,40 @@
 > <i style="color: #F0ECD7;">"Transformando lógica rigorosa em soluções de software práticas e escaláveis."</i>
 
 <p style="color: #F0ECD7;" align="justify">
-Sou estudante de Ciência da Computação com um interesse genuíno nos fundamentos da tecnologia. Em vez de focar apenas na camada visual, gosto de descer o nível e entender a arquitetura por trás dos sistemas.
+Sou estudante de Ciência da Computação com um interesse genuíno nos fundamentos da tecnologia. Tenho interesse em compreender não apenas a interface das aplicações, mas também sua estrutura interna, incluindo bancos de dados, lógica de negócio e integração entre componentes.
 
-Meus estudos e projetos englobam desde <b>desenvolvimento web e bancos de dados relacionais (SQL)</b> até conceitos analíticos profundos envolvendo <b>redes de computadores e algoritmos estruturados em Java e C++</b>.
+Meus estudos e projetos englobam desde <b>desenvolvimento web e bancos de dados relacionais (SQL)</b> e <b> fundamentos de redes de computadores, estruturas de dados e algoritmos estruturados em Java e C++</b>.
 
 Tenho facilidade com explicações técnicas rigorosas passo a passo e busco sempre aplicar essa disciplina no meu código. Sempre em busca de aprendizado, novos desafios e de compartilhar conhecimento.
 </p>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">🚀 Áreas de Interesse</h2>
+
+<div align="center">
+
+<b>🖥️ Desenvolvimento Back-End • 🏛️ Arquitetura de Software • 🤖 Inteligência Artificial </b>
+
+<br><br>
+
+<b>🗄️ Bancos de Dados • 🔒 Segurança da Informação • 🌐 Sistemas Distribuídos </b>
+
+</div>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">📖 Princípios</h2>
+
+<div align="center">
+
+<b> 🧠 Pensamento analítico • ⚙️ Engenharia e organização • 📚 Conhecimento estruturado </b>
+
+<br><br>
+
+<b> 🎨 Clareza na comunicação • 🚀 Aprendizado contínuo </b>
+
+</div>
 
 ---
 
@@ -109,7 +137,7 @@ Tenho facilidade com explicações técnicas rigorosas passo a passo e busco sem
 
   <details>
     <summary>
-      <b style="font-size: 1.2em; color: #EA5E26;">🌱 Projeto Finança (Spring Boot)</b> &nbsp;
+      <b style="font-size: 1.2em; color: #EA5E26;">🌱 MoneyLens</b> &nbsp;
       <img align="center" src="https://img.shields.io/badge/Concluído-112338?style=flat-square&color=F0ECD7&labelColor=112338">
     </summary>
     <br/>

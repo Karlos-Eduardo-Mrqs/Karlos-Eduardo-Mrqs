@@ -17,12 +17,40 @@
 > <i style="color: #F0ECD7;">"Transformando lógica rigurosa en soluciones de software prácticas y escalables."</i>
 
 <p style="color: #F0ECD7; text-align: justify;">
-Soy estudiante de Ciencias de la Computación con un interés genuino en los fundamentos de la tecnología. En lugar de centrarme solo en la capa visual, me gusta profundizar y comprender la arquitectura detrás de los sistemas.
+Soy estudiante de Ciencias de la Computación con un interés genuino en los fundamentos de la tecnología. Me interesa comprender no sólo la interfaz de la aplicación, sino también su estructura interna, incluidas las bases de datos, la lógica empresarial y la integración entre componentes.
 
-Mis estudios y proyectos abarcan desde <b>desarrollo web y bases de datos relacionales (SQL)</b> hasta conceptos analíticos profundos que involucran <b>redes de computadoras y algoritmos estructurados en Java y C++</b>.
+Mis estudios y proyectos abarcan desde <b>desarrollo web y bases de datos relacionales (SQL)</b> e incluso <b>fundamentos de redes de computadoras, estructuras de datos y algoritmos estructurados en Java y C++</b>.
 
 Tengo facilidad para las explicaciones técnicas rigurosas paso a paso y siempre busco aplicar esta disciplina en mi código. Siempre en busca de aprendizaje, nuevos desafíos y de compartir conocimientos.
 </p>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">🚀 Áreas de interés</h2>
+
+<div align="center">
+
+<b>🖥️ Desarrollo back-end • 🏛️ Arquitectura de software • 🤖 Inteligencia artificial </b>
+
+<br><br>
+
+<b>🗄️ Bases de datos • 🔒 Seguridad de la información • 🌐 Sistemas distribuidos </b>
+
+</div>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">📖 Principios</h2>
+
+<div align="center"> 
+
+<b> 🧠 Pensamiento analítico • ⚙️ Ingeniería y organización • 📚 Conocimiento estructurado </b>
+
+<br><br>
+
+<b> 🎨 Claridad en la comunicación • 🚀 Aprendizaje continuo </b>
+
+</div>
 
 ---
 
@@ -108,12 +136,12 @@ Tengo facilidad para las explicaciones técnicas rigurosas paso a paso y siempre
 
   <details>
     <summary>
-      <b style="font-size: 1.2em; color: #EA5E26;">🌱 Projeto Finança (Spring Boot)</b> &nbsp;
+      <b style="font-size: 1.2em; color: #EA5E26;">🌱 MoneyLens</b> &nbsp;
       <img align="center" src="https://img.shields.io/badge/Completado-112338?style=flat-square&color=F0ECD7&labelColor=112338">
     </summary>
     <br/>
     <blockquote>
-      Proyecto final de la universidad construido sobre la arquitectura Java Spring Boot. (Fork del repositorio de Lucas-deAndrade21).
+      Proyecto de la universidad construido sobre la arquitectura Java Spring Boot. (Fork del repositorio de Lucas-deAndrade21).
       <br/><br/>
       🛠️ <b style="color: #F2A31A;">Stack Involucrada:</b> <code>Java</code> • <code>Spring Boot</code> • <code>HTML</code><br/>
       🎯 <b style="color: #F2A31A;">Aprendizaje:</b> Lectura de código de terceros y comprensión del ecosistema e inyección de dependencias de Spring.<br/>

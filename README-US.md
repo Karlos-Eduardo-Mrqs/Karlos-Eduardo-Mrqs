@@ -10,7 +10,6 @@
   <b> Carlos-Eduardo | Computer Science Student & Software Developer </b>
 </p>
 
-
 ---
 
 <h2 align="center" style="color: #EA5E26;">📝 About Me</h2>
@@ -18,12 +17,40 @@
 > <i style="color: #F0ECD7;">"Transforming rigorous logic into practical and scalable software solutions."</i>
 
 <p style="color: #F0ECD7;" align="justify">
-I am a Computer Science student with a genuine interest in the fundamentals of technology. Instead of focusing only on the visual layer, I like to go deep and understand the architecture behind systems.
+I am a Computer Science student with a genuine interest in the fundamentals of technology. I'm interested in understanding not only the application interface, but also its internal structure, including databases, business logic, and integration between components.
 
-My studies and projects range from <b>web development and relational databases (SQL)</b> to deep analytical concepts involving <b>computer networks and structured algorithms in Java and C++</b>.
+My studies and projects range from <b>web development and relational databases (SQL)</b> and even <b> fundamentals of computer networking, data structures and structured algorithms in Java and C++</b>.
 
 I have a knack for step-by-step rigorous technical explanations and always seek to apply this discipline to my code. I am constantly looking to learn, face new challenges, and share knowledge.
 </p>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">🚀 Areas of Interest</h2>
+
+<div align="center">
+
+<b>🖥️ Back-End Development • 🏛️ Software Architecture • 🤖 Artificial Intelligence </b>
+
+<br><br>
+
+<b>🗄️ Databases • 🔒 Information Security • 🌐 Distributed Systems </b>
+
+</div>
+
+---
+
+<h2 align="center" style="color: #EA5E26;">📖 Principles</h2>
+
+<div align="center"> 
+
+<b> 🧠 Analytical thinking • ⚙️ Engineering and organization • 📚 Structured knowledge </b>
+
+<br><br>
+
+<b> 🎨 Clarity in communication • 🚀 Continuous learning </b>
+
+</div>
 
 ---
 
@@ -109,12 +136,12 @@ I have a knack for step-by-step rigorous technical explanations and always seek 
 
   <details>
     <summary>
-      <b style="font-size: 1.2em; color: #EA5E26;">🌱 Projeto Finança (Spring Boot)</b> &nbsp;
+      <b style="font-size: 1.2em; color: #EA5E26;">🌱 MoneyLens</b> &nbsp;
       <img align="center" src="https://img.shields.io/badge/Completed-112338?style=flat-square&color=F0ECD7&labelColor=112338">
     </summary>
     <br/>
     <blockquote>
-      Final college project built on the Java Spring Boot architecture.
+      Project built on the Java Spring Boot architecture.
       <br/><br/>
       🛠️ <b style="color: #F2A31A;">Stack:</b> <code>Java</code> • <code>Spring Boot</code> • <code>HTML</code><br/>
       🎯 <b style="color: #F2A31A;">Learning:</b> Reading third-party code and understanding the Spring ecosystem and dependency injection.<br/>
